@@ -1,8 +1,0 @@
-With pretrained:
-
-LR = 1e-3 + Hidden unit = 256 => Overfitting after epoch 2
-
-LR = 1e-4 + Hidden unit = 256 => 78.2% val_acc without overfitting
- 
-LR = 1e-3 + Hidden unit = 20 => 78.3% val_acc without overfitting
-
